@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Routes from './routes';
 
-filepicker.setKey("YOUR_API_KEY");
+filepicker.setKey("A3ddYUvV9SliOz11pdqKQz");
 
 ReactDOM.render(
   Routes,
